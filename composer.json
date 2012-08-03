@@ -1,0 +1,18 @@
+{
+	"name": "TYPO3.Fluid",
+	"description": "Fluid - ",
+	"homepage": "http://flow3.typo3.org",
+	"keywords": ["framework"],
+	"license": ["GPL-3.0+"],
+	"authors": [
+		{
+			"name": "FLOW3 Development Team",
+			"homepage": "http://typo3.org/teams/core-development-team/"
+		}
+	],
+	"version": "dev-master",
+	"type": "library",
+	"require": {
+		   "TYPO3.FLOW3": "dev-master"
+	}
+}
