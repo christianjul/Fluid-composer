@@ -1,6 +1,7 @@
 {
 	"name": "typo3.fluid",
-	"description": "Fluid - ",
+	"type": "flow3-framework",
+	"description": "Fluid - Templating engine",
 	"homepage": "http://flow3.typo3.org",
 	"keywords": ["framework"],
 	"license": ["GPL-3.0+"],
@@ -11,8 +12,8 @@
 		}
 	],
 	"version": "dev-master",
-	"type": "library",
 	"require": {
+		   "christianjul/installers" => "*",
 		   "TYPO3.FLOW3": "dev-master"
 	}
 }
