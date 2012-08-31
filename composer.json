@@ -1,5 +1,5 @@
 {
-	"name": "typo3.fluid",
+	"name": "TYPO3.Fluid",
 	"type": "flow3-framework",
 	"description": "Fluid - Templating engine",
 	"homepage": "http://flow3.typo3.org",
@@ -13,7 +13,7 @@
 	],
 	"version": "dev-master",
 	"require": {
-		   "christianjul/installers" => "*",
+		   "christianjul/installers": "*",
 		   "TYPO3.FLOW3": "dev-master"
 	}
 }
