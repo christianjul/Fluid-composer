@@ -13,7 +13,7 @@
 	],
 	"version": "dev-master",
 	"require": {
-		   "christianjul/installers": "*",
 		   "TYPO3.FLOW3": "dev-master"
+		   "christianjul/installers": "*",
 	}
 }
