@@ -14,5 +14,9 @@
 	"version": "dev-master",
 	"require": {
 		   "christianjul/installers": "*"
+	},
+	"suggest": {
+		   "TYPO3.FLOW3": "*"
 	}
+
 }
