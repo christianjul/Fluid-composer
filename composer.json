@@ -1,5 +1,5 @@
 {
-	"name": "TYPO3.Fluid",
+	"name": "typo3/fluid",
 	"type": "flow3-framework",
 	"description": "Fluid - Templating engine",
 	"homepage": "http://flow3.typo3.org",
@@ -16,7 +16,13 @@
 		   "christianjul/installers": "*"
 	},
 	"suggest": {
-		   "TYPO3.FLOW3": "*"
+		   "typo3/flow3": "*"
+	},
+	"autoload": {
+		"psr-0": {
+			"TYPO3\\Fluid": "Classes"
+		}
 	}
+
 
 }
